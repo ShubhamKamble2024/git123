@@ -1,0 +1,3 @@
+fter that, you can click Create plan to proceed to the next stage, the backup rule creation.
+
+Your backup plan has been successfully created. However, before you can run this plan and deploy it in your environment, you should also assign resources which need to be backed up. Click the Assign resources button, which can be found in the top bar.
